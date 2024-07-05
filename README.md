@@ -1,4 +1,4 @@
-# Shorfed
+# c_VenturaFirstRepository
 This is my first repository on GitHub
 I am currently enrolled at ASU online in the full-stack web developer bachelors program
 HTML, CSS, JavaScript, the terminal, GitHub, and Linux are my main focuses at the moment
